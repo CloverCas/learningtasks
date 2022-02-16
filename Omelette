@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title> Omellete </title>
+    <title> Omelette </title>
   </head>
   <body>
-	<h1> Omellete </h1>
+	<h1> Omelette </h1>
 	<img src="Omelette.jpg" alt="Omelette">
 	<h2> Ingredients </h2>
 <ul>
