@@ -7,7 +7,7 @@
     <h1> Welcome to my Website! I am Casandra Heaven Estelloso! </h1>
 <ul>
       <li> <a href="index.php"> HOME </a> </li>
-      <li> <a href="Learning Task2.1"> LEARNING TASK 2 </a> </li>
+      <li> <a href="FOLDER_LT2/Learning Task2.1"> LEARNING TASK 2 </a> </li>
 </ul>
   </body>
 </html>
