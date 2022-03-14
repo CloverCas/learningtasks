@@ -1,0 +1,245 @@
+
+body{
+
+	    background-image: url('background.jpg');
+			position: relative;
+			background-repeat: no-repeat;
+	    background-size: 100% 100vh;
+			background-attachment: fixed;
+}
+h1 {
+  font-weight: bold;
+  color: #8bd8bd;
+  font-size: 80px;
+	-webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #2f7395;
+		font-family: cursive;
+}
+
+h2 {
+  color: #8bd8bd;
+	font-family: monospace;
+}
+
+
+#mainbox {
+    width:1350px;
+    height: 950px;
+    background-size:cover;
+    margin:0;
+    padding:0;
+}
+#mainbox #firstrow {
+    width:100%;
+    height:400px;
+}
+#mainbox #secondrow {
+    width:100%;
+    height:400px;
+}
+#mainbox #firstrow .Through{
+	background-color:black;
+  background-size:cover;
+	width: 15%;
+	height: 110%;
+	padding:5px;
+	border: 3px solid #004851;
+	margin-left: 3%;
+  margin-bottom: 1%;
+  float:left;
+  color: beige;
+
+}
+#mainbox #firstrow .Through img{
+    width:200px;
+    height:200px;
+}
+#mainbox #firstrow .Through p {
+    font-size:12px;
+		font-family: cursive;
+}
+
+
+#mainbox #firstrow .Sk8er {
+	background-color:black;
+	background-size:cover;
+	width: 15%;
+	height: 110%;
+	padding:5px;
+	border: 3px solid #004851;
+	margin-left: 3%;
+  margin-bottom: 1%;
+  float:left;
+  color: beige;
+}
+#mainbox #firstrow .Sk8er img{
+    width:200px;
+    height:200px;
+}
+#mainbox #firstrow .Sk8er p {
+    font-size:12px;
+		font-family: cursive;
+}
+
+#mainbox #firstrow .Free {
+	background-color:black;
+	background-size:cover;
+	width: 15%;
+	height: 110%;
+	padding:5px;
+	border: 3px solid #004851;
+	margin-left: 3%;
+  margin-bottom: 1%;
+  float:left;
+  color: beige;
+}
+#mainbox #firstrow .Free img{
+    width:200px;
+    height:200px;
+}
+#mainbox #firstrow .Free p {
+    font-size:12px;
+		font-family: cursive;
+}
+
+#mainbox #firstrow .Dream {
+	background-color:black;
+	background-size:cover;
+	width: 15%;
+	height: 110%;
+	padding:5px;
+	border: 3px solid #004851;
+	margin-left: 3%;
+  margin-bottom: 1%;
+  float:left;
+  color: beige;
+}
+#mainbox #firstrow .Dream img{
+    width:200px;
+    height:200px;
+}
+#mainbox #firstrow .Dream p {
+    font-size:12px;
+		font-family: cursive;
+}
+
+#mainbox #firstrow .Exception {
+	background-color:black;
+	background-size:cover;
+	width: 15%;
+	height: 110%;
+	padding:5px;
+	border: 3px solid #004851;
+	margin-left: 3%;
+  margin-bottom: 1%;
+  float:left;
+  color: beige;
+}
+#mainbox #firstrow .Exception img{
+    width:200px;
+    height:200px;
+}
+#mainbox #firstrow .Exception p {
+    font-size:12px;
+		font-family: cursive;
+}
+
+#mainbox #secondrow .Still {
+	background-color:black;
+	background-size:cover;
+	width: 15%;
+	height: 110%;
+	padding:5px;
+	border: 3px solid #004851;
+	margin-left: 3%;
+  float:left;
+  color: beige;
+}
+#mainbox #secondrow .Still img{
+    width:200px;
+    height:200px;
+}
+#mainbox #secondrow .Still p {
+    font-size:12px;
+		font-family: cursive;
+}
+
+#mainbox #secondrow .Bohemian {
+	background-color:black;
+	background-size:cover;
+	width: 15%;
+	height: 110%;
+	padding:5px;
+	border: 3px solid #004851;
+	margin-left: 3%;
+  float:left;
+  color: beige;
+}
+#mainbox #secondrow .Bohemian img{
+    width:200px;
+    height:200px;
+}
+#mainbox #secondrow .Bohemian p {
+    font-size:12px;
+		font-family: cursive;
+}
+
+#mainbox #secondrow .Hepburn {
+	background-color:black;
+	background-size:cover;
+	width: 15%;
+	height: 110%;
+	padding:5px;
+	border: 3px solid #004851;
+	margin-left: 3%;
+  float:left;
+  color: beige;
+}
+#mainbox #secondrow .Hepburn img{
+    width:200px;
+    height:200px;
+}
+#mainbox #secondrow .Hepburn p {
+    font-size:12px;
+		font-family: cursive;
+}
+
+#mainbox #secondrow .One {
+	background-color:black;
+	background-size:cover;
+	width: 15%;
+	height: 110%;
+	padding:5px;
+	border: 3px solid #004851;
+	margin-left: 3%;
+  float:left;
+  color: beige;
+}
+#mainbox #secondrow .One img{
+    width:200px;
+    height:200px;
+}
+#mainbox #secondrow .One p {
+    font-size:12px;
+		font-family: cursive;
+}
+
+#mainbox #secondrow .Well {
+	background-color:black;
+	background-size:cover;
+	width: 15%;
+	height: 110%;
+	padding:5px;
+	border: 3px solid #004851;
+	margin-left: 3%;
+  float:left;
+  color: beige;
+}
+#mainbox #secondrow .Well img{
+    width:200px;
+    height:200px;
+}
+#mainbox #secondrow .Well p {
+    font-size:12px;
+		font-family: cursive;
+}
