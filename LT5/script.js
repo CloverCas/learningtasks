@@ -1,6 +1,5 @@
-
-document.getElementById("myButton").onclick = function(){
-
-    var myName = document.getElementById("myText").value;
-    console.log("Hello",myName);
-}
+var urlParams = new URLSearchParams(window.location.search);
+console.log(urlParams);
+var ref =document.getElementById('myName');
+ref.innerText=urlParams.get('myName');
+console.log(ref);
