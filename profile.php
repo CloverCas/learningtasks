@@ -57,74 +57,23 @@ $page = (isset($_GET['page']) && $_GET['page'] != '') ? $_GET['page'] : '';
             ?>
       </nav>
   </div>
-  <div class= "first">
-  <img alt="Front" src="media\front_pic.png" class="front">
-  <div class = "first_info">
-     <h1 class = "font-three"> CASANDRA HEAVEN ESTELLOSO </h1>
-      <h3 class = " font-two"> A first-year Bachelor of Science in Information Technology student at the University of
-St. La Salle Bacolod. </h3>
-  </div>
-</div>
-<center>
-<div class= "second">
-  <div class= "second_info">
-  <a href="https://www.facebook.com/casandra.estelloso/" target="_blank" rel= "noopener noreferrer">
-       <img alt="Facebook" src="media\fb.png" class="Logo">
-     </a> &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/saandraaa.park/" target="_blank" rel= "noopener noreferrer">
-     <img alt="Instagram" src="media\ig.png" class="Logo">
-         </a> &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/u/0/?hl=en&tf=cm&fs=1&to=s2120697@usls.edu.ph" target="_blank" rel= "noopener noreferrer">
-     <img alt="Gmail" src="media\gmail.png" class="Logo">
-         </a> &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-         <a href="https://zoom.us/j/4033446319?pwd=aDNqWFBRUDFydEZKUDlHemVyQUZZQT09" target="_blank" rel= "noopener noreferrer">
-            <img alt="Zoom" src="media\zoom.png" class="Logo">
-          </a></center>
-</div></div>
-<div class= "body">
-  <h1 class = "font-four"> " To become truly proficient at something, you must practice until the technique becomes habitual. " </h1>
-<center>
-
-     <div class="slider">
-       <div class="slides">
-
-         <input type="radio" name="radio-btn" id="radio1">
-         <input type="radio" name="radio-btn" id="radio2">
-         <input type="radio" name="radio-btn" id="radio3">
-         <input type="radio" name="radio-btn" id="radio4">
-         <input type="radio" name="radio-btn" id="radio5">
-
-         <div class="slide first">
-           <img src="media\1.png" alt="">
-         </div>
-         <div class="slide">
-           <img src="media\2.png" alt="">
-         </div>
-         <div class="slide">
-           <img src="media\3.png" alt="">
-         </div>
-         <div class="slide">
-           <img src="media\4.png" alt="">
-         </div>
-         <div class="slide">
-           <img src="media\5.png" alt="">
-         </div>
-
-</div>
-
-<div class="navigation-manual">
-<label for="radio1" class="manual-btn"></label>
-<label for="radio2" class="manual-btn"></label>
-<label for="radio3" class="manual-btn"></label>
-<label for="radio4" class="manual-btn"></label>
-<label for="radio5" class="manual-btn"></label>
-</div>
-</div>
-
-</center>
-</div>
-
-
+	<img alt="Formal" src="media\formal.png" class="formal">
+	  <div class = "contacts">
+	    <center> <h1 class = "font-three"> CASANDRA HEAVEN ESTELLOSO </h1>
+	    <p class = "font-two"> BSIT1B STUDENT </p> </br>
+	  <h3 class = " font-two"> PROFILE </h3>
+	<p class = " font-five" > A first-year Bachelor of Science in Information Technology student at the University of
+	St. La Salle Bacolod. </p></br>
+	<h3 class = " font-two"> CONTACT </h3>
+	  </center>
+	<div class = "info" >
+	<ul><strong><p class = " font-five"> <img alt="Number" src="media\number.png" > +639234181405 </p>
+	  <p class = " font-five"> <img alt="Email" src="media\email.png" > s2120697@usls.edu.ph <p>
+	    <p class = " font-five"> <img alt="Location" src="media\location.png" > Bacolod City </p>
+	</strong></ul>
+	</div>
+	  </div>
+	</div>
 <div class = "foot" ></div>
  <a href="https://www.youtube.com/channel/UCfW4gPvg5ZWedWXy9DrQu2A" target="_blank" rel= "noopener noreferrer">
       <img alt="Youtube" src="media\yt.png" class="Logo">
@@ -136,8 +85,6 @@ St. La Salle Bacolod. </h3>
     <img alt="Github" src="media\git.png" class="Logo">
         </a>
   <p class="copy">Copyright &copy; 2022</p>
-
-
 </div>
 <script src="script.js"> </script>
 </body>
